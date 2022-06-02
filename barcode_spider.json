@@ -1,0 +1,37 @@
+{
+    "Stores": [
+        {
+            "currency": "USD",
+            "image": "https://m.media-amazon.com/images/I/51mmNE1cErL.jpg",
+            "link": "https://www.barcodespider.com/getstore/NjczNDE5MzE4NDU3fEFtYXpvbiBVUw,,",
+            "price": "29.99",
+            "store_name": "Amazon US",
+            "title": "LEGO Star Wars 501st Legion Clone Troopers 75280 Building Kit, Cool Action Set for Creative Play and Awesome Building; Great Gift or Special Surprise for Kids, New 2020 (285 Pieces)",
+            "updated": "2020-08-05 17:52:13"
+        }
+    ],
+    "item_attributes": {
+        "asin": "B0858LT2QL",
+        "brand": "LEGO",
+        "category": "Toy",
+        "color": "Multicolor",
+        "description": "",
+        "ean": "0673419318457",
+        "image": "https://images.barcodespider.com/upcimage/673419318457.jpg",
+        "is_adult": "0",
+        "manufacturer": "LEGO",
+        "model": "6289018",
+        "mpn": "6289018",
+        "parent_category": "Toy",
+        "publisher": "LEGO",
+        "size": "",
+        "title": "LEGO Star Wars 501st Legion Clone Troopers 75280 Building Kit, Cool Action Set for Creative Play and Awesome Building; Great Gift or Special Surprise for Kids, New 2020 (285 Pieces)",
+        "upc": "673419318457",
+        "weight": ""
+    },
+    "item_response": {
+        "code": 200,
+        "message": "Data returned",
+        "status": "OK"
+    }
+}

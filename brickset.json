@@ -1,0 +1,282 @@
+{
+    "matches": 4,
+    "sets": [
+        {
+            "LEGOCom": {
+                "CA": {},
+                "DE": {},
+                "UK": {
+                    "dateFirstAvailable": "2007-10-24T00:00:00Z",
+                    "dateLastAvailable": "2008-09-11T00:00:00Z",
+                    "retailPrice": 8.99
+                },
+                "US": {
+                    "dateFirstAvailable": "2007-10-24T00:00:00Z",
+                    "dateLastAvailable": "2008-09-11T00:00:00Z",
+                    "retailPrice": 9.99
+                }
+            },
+            "additionalImageCount": 5,
+            "ageRange": {},
+            "availability": "{Not specified}",
+            "barcode": {
+                "EAN": "5702014498761",
+                "UPC": "673419090780"
+            },
+            "bricksetURL": "https://brickset.com/sets/7655-1",
+            "category": "Normal",
+            "collection": {
+                "notes": "",
+                "owned": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "wanted": false
+            },
+            "collections": {
+                "ownedBy": 12458,
+                "wantedBy": 3233
+            },
+            "dimensions": {
+                "depth": 4.8,
+                "height": 14.4,
+                "weight": 0.1,
+                "width": 19.2
+            },
+            "extendedData": {},
+            "image": {
+                "imageURL": "https://images.brickset.com/sets/images/7655-1.jpg",
+                "thumbnailURL": "https://images.brickset.com/sets/small/7655-1.jpg"
+            },
+            "instructionsCount": 1,
+            "lastUpdated": "2016-05-18T21:58:47.393Z",
+            "minifigs": 4,
+            "name": "Clone Troopers Battle Pack",
+            "number": "7655",
+            "numberVariant": 1,
+            "packagingType": "Box",
+            "pieces": 58,
+            "rating": 4.2,
+            "released": true,
+            "reviewCount": 73,
+            "setID": 5585,
+            "subtheme": "Episode III",
+            "theme": "Star Wars",
+            "themeGroup": "Licensed",
+            "year": 2007
+        },
+        {
+            "LEGOCom": {
+                "CA": {
+                    "dateFirstAvailable": "2012-12-27T00:00:00Z",
+                    "dateLastAvailable": "2014-12-02T00:00:00Z",
+                    "retailPrice": 15.99
+                },
+                "DE": {},
+                "UK": {
+                    "dateFirstAvailable": "2013-01-03T00:00:00Z",
+                    "dateLastAvailable": "2015-01-02T00:00:00Z",
+                    "retailPrice": 11.99
+                },
+                "US": {
+                    "dateFirstAvailable": "2012-12-28T00:00:00Z",
+                    "dateLastAvailable": "2014-12-02T00:00:00Z",
+                    "retailPrice": 12.99
+                }
+            },
+            "additionalImageCount": 5,
+            "ageRange": {
+                "max": 12,
+                "min": 6
+            },
+            "availability": "Retail",
+            "barcode": {
+                "EAN": "5702014974937",
+                "UPC": "673419191579"
+            },
+            "bricksetURL": "https://brickset.com/sets/75000-1",
+            "category": "Normal",
+            "collection": {
+                "notes": "",
+                "owned": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "wanted": false
+            },
+            "collections": {
+                "ownedBy": 14749,
+                "wantedBy": 3076
+            },
+            "dimensions": {
+                "depth": 4.5,
+                "height": 14.1,
+                "weight": 0.14,
+                "width": 15.7
+            },
+            "extendedData": {},
+            "image": {
+                "imageURL": "https://images.brickset.com/sets/images/75000-1.jpg",
+                "thumbnailURL": "https://images.brickset.com/sets/small/75000-1.jpg"
+            },
+            "instructionsCount": 2,
+            "lastUpdated": "2012-12-20T08:36:22.567Z",
+            "minifigs": 4,
+            "name": "Clone Troopers vs. Droidekas",
+            "number": "75000",
+            "numberVariant": 1,
+            "packagingType": "Box",
+            "pieces": 124,
+            "rating": 3.6,
+            "released": true,
+            "reviewCount": 18,
+            "setID": 9854,
+            "subtheme": "Episode II",
+            "theme": "Star Wars",
+            "themeGroup": "Licensed",
+            "year": 2013
+        },
+        {
+            "LEGOCom": {
+                "CA": {
+                    "dateFirstAvailable": "2018-04-14T00:00:00Z",
+                    "dateLastAvailable": "2019-08-14T00:00:00Z",
+                    "retailPrice": 16.99
+                },
+                "DE": {
+                    "dateFirstAvailable": "2018-04-14T00:00:00Z",
+                    "dateLastAvailable": "2019-08-19T00:00:00Z",
+                    "retailPrice": 16.99
+                },
+                "UK": {
+                    "dateFirstAvailable": "2018-04-14T00:00:00Z",
+                    "dateLastAvailable": "2019-08-23T00:00:00Z",
+                    "retailPrice": 12.99
+                },
+                "US": {
+                    "dateFirstAvailable": "2018-04-14T00:00:00Z",
+                    "dateLastAvailable": "2019-08-14T00:00:00Z",
+                    "retailPrice": 14.99
+                }
+            },
+            "additionalImageCount": 4,
+            "ageRange": {
+                "max": 12,
+                "min": 6
+            },
+            "availability": "Retail",
+            "barcode": {
+                "EAN": "5702016109993",
+                "UPC": "673419281737"
+            },
+            "bricksetURL": "https://brickset.com/sets/75206-1",
+            "category": "Normal",
+            "collection": {
+                "notes": "",
+                "owned": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "wanted": false
+            },
+            "collections": {
+                "ownedBy": 11429,
+                "wantedBy": 2549
+            },
+            "dimensions": {
+                "depth": 4.6,
+                "height": 14.1,
+                "weight": 0.13,
+                "width": 19.1
+            },
+            "extendedData": {},
+            "image": {
+                "imageURL": "https://images.brickset.com/sets/images/75206-1.jpg",
+                "thumbnailURL": "https://images.brickset.com/sets/small/75206-1.jpg"
+            },
+            "instructionsCount": 2,
+            "lastUpdated": "2018-01-07T04:36:48.1Z",
+            "minifigs": 4,
+            "name": "Jedi and Clone Troopers Battle Pack",
+            "number": "75206",
+            "numberVariant": 1,
+            "packagingType": "Box",
+            "pieces": 102,
+            "rating": 3.6,
+            "released": true,
+            "reviewCount": 7,
+            "setID": 27399,
+            "subtheme": "Episode II",
+            "theme": "Star Wars",
+            "themeGroup": "Licensed",
+            "year": 2018
+        },
+        {
+            "LEGOCom": {
+                "CA": {
+                    "dateFirstAvailable": "2020-08-24T00:00:00Z",
+                    "retailPrice": 39.99
+                },
+                "DE": {
+                    "dateFirstAvailable": "2020-08-28T00:00:00Z",
+                    "retailPrice": 29.99
+                },
+                "UK": {
+                    "dateFirstAvailable": "2020-08-27T00:00:00Z",
+                    "retailPrice": 24.99
+                },
+                "US": {
+                    "dateFirstAvailable": "2020-08-24T00:00:00Z",
+                    "retailPrice": 29.99
+                }
+            },
+            "additionalImageCount": 28,
+            "ageRange": {
+                "min": 7
+            },
+            "availability": "{Not specified}",
+            "barcode": {
+                "EAN": "5702016617245",
+                "UPC": "673419318457"
+            },
+            "bricksetURL": "https://brickset.com/sets/75280-1",
+            "category": "Normal",
+            "collection": {
+                "notes": "",
+                "owned": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "wanted": false
+            },
+            "collections": {
+                "ownedBy": 16963,
+                "wantedBy": 3390
+            },
+            "dimensions": {
+                "depth": 6.1,
+                "height": 19.1,
+                "weight": 0.31,
+                "width": 26.2
+            },
+            "extendedData": {},
+            "image": {
+                "imageURL": "https://images.brickset.com/sets/images/75280-1.jpg",
+                "thumbnailURL": "https://images.brickset.com/sets/small/75280-1.jpg"
+            },
+            "instructionsCount": 2,
+            "lastUpdated": "2020-08-01T00:34:36.91Z",
+            "minifigs": 6,
+            "name": "501st Legion Clone Troopers",
+            "number": "75280",
+            "numberVariant": 1,
+            "packagingType": "Box",
+            "pieces": 285,
+            "rating": 4.5,
+            "released": true,
+            "reviewCount": 14,
+            "setID": 30188,
+            "subtheme": "The Clone Wars",
+            "theme": "Star Wars",
+            "themeGroup": "Licensed",
+            "year": 2020
+        }
+    ],
+    "status": "success"
+}
