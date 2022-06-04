@@ -1,5 +1,6 @@
 #secret files
 *secrets.py
+googlesheet_keys.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
