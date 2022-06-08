@@ -2,6 +2,7 @@ from __future__ import print_function
 from googleapiclient.discovery import build
 from numpy import append
 import google_secrets
+import parsing_json
 
 from google.oauth2 import service_account
 
@@ -28,7 +29,7 @@ def appendToSpreadsheet(data, spreadsheetId, spreadsheetName, spreadsheet):
     :param spreadsheetName: the name of the spreadsheet to append to
     :param spreadsheet: the googlesheets called from .spreadsheets()
     """
-    sheetRange = "{}!A1:D1".format(spreadsheetName)
+    sheetRange = "{}!A1:F1".format(spreadsheetName)
     spreadsheet.values().append(spreadsheetId=spreadsheetId, range=sheetRange,
                                 valueInputOption="USER_ENTERED", insertDataOption="INSERT_ROWS", body={"values": data}).execute()
 
@@ -45,7 +46,7 @@ def main():
     #                             range="Inventory!A1:D3").execute()
     # values = result.get('values', [])
     # print(values)
-    data = [[1, 2, 3, 4], [5, 6, 7, 8]]
+    data = parsing_json.parseBricksetFile("brickset.json")
     # sheet.values().append(spreadsheetId=SAMPLE_SPREADSHEET_ID, range="Inventory!A1:G1",
     #                       valueInputOption="USER_ENTERED", insertDataOption="INSERT_ROWS", body={"values": data}).execute()
     appendToSpreadsheet(data, SAMPLE_SPREADSHEET_ID, "Inventory", sheet)
